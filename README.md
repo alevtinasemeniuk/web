@@ -3,4 +3,5 @@
 [Test Cases](https://github.com/alevtinasemeniuk/web/blob/main/Test%20Cases.pdf)  
 [Checklist](https://docs.google.com/spreadsheets/d/189EKhVJ4yraRebp_qshSJNOhojF-be1TDbqYsy3PvQc/edit?usp=sharing)  
 [Test Run](https://github.com/alevtinasemeniuk/web/blob/main/Test%20Run_Web%20App%20Testing.pdf)  
-[Bug Reports](https://github.com/alevtinasemeniuk/web/blob/main/Bug%20Reports_Web%20App%20Testing.xlsx)
+[Bug Reports](https://github.com/alevtinasemeniuk/web/blob/main/Bug%20Reports_Web%20App%20Testing.xlsx)  
+[Working with Charles Proxy and and computer web browser](https://github.com/alevtinasemeniuk/web/blob/main/Carles%20Proxy_Mac.mp4)
