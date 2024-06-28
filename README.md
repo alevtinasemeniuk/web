@@ -1,4 +1,4 @@
-# Web application testing  
+# Web Aplication Testing  
 
 In this section, I continued working on the web application [demoshopping.ru](https://demoshopping.ru/) and developed the following documents:
 
