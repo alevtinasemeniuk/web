@@ -1,7 +1,8 @@
 # Web Aplication Testing  
 
 In this section, I continued working on the web application [demoshopping.ru](https://demoshopping.ru/),  
-which allows users to register, log in, browse the catalog, add items to the cart, place orders, and make payments,
+which allows users to register, log in, browse the catalog, add items to the cart, place orders,  
+and make payments,
 and developed the following documents:
 
 ---
